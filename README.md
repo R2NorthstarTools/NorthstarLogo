@@ -7,5 +7,5 @@
 
 ### Final results
 
-![Northstar Icon with text](Images/NorthstarLOGO_FULL.png)\
-[Full Northstar Icon Here](Images/NorthstarLOGO.png)
+![Northstar Icon with text](Images/logo/NorthstarLOGO_FULL.png)\
+[Full Northstar Icon Here](Images/logo/NorthstarLOGO.png)
